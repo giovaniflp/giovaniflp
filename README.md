@@ -1,5 +1,5 @@
-<h1 align="center">Languages that I use:</h1>
-<p align="center">
+<h1 align="left">Languages that I use:</h1>
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
@@ -7,8 +7,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
 </p>
-<h1 align="center">Frameworks, libraries and other things that I use:</h1>
-<p align="center">
+<h1 align="left">Frameworks, libraries and other things that I use:</h1>
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" height="50"/>
@@ -20,8 +20,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="50" height="50"/>
 </p>
 
-<a href="https://github.com/giovaniflp/github-readme-stats" align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovaniflp&langs_count=10" alt="">
+<a href="https://github.com/giovaniflp/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovaniflp&langs_count=10" alt="">
 </a>
 
 
