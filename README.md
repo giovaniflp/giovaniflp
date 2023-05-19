@@ -21,7 +21,7 @@
 </p>
 
 <a href="https://github.com/giovaniflp/github-readme-stats">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovaniflp&langs_count=10" alt="">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovaniflp&langs_count=10" alt="">
 </a>
 
 
