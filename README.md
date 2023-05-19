@@ -20,7 +20,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="50" height="50"/>
 </p>
 
-<section align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovaniflp&langs_count=10)](https://github.com/giovaniflp/github-readme-stats)
-</section>
+<a href="https://github.com/giovaniflp/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovaniflp&langs_count=10" alt="">
+</a>
+
 
