@@ -29,7 +29,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="100" height="100"/>
   </a>
 </div>
-
+<br/>
 <a href="https://github.com/giovaniflp/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovaniflp&langs_count=10" alt="">
 </a>
