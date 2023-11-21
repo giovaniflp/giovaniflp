@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Giovani</h1>
-<h3 align="center">Sou um entusiasta na área de tecnologia e atualmente estou estudando no IFPE (Instituto Federal de Pernambuco). Atualmente estou focado em tecnologias como: Javascript, Typescript, NextJs, NestJs, React, API Rest e SQL. </h3>
+<h3 align="center">I am an enthusiast in the area of technology and I am currently studying at IFPE (Federal Institute of Pernambuco). Currently I'm focused on technologies such as: Javascript, Typescript, NextJs, NestJs, React, Rest API and SQL. </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giovaniflp&label=Profile%20views&color=0e75b6&style=flat" alt="giovaniflp" /> </p>
 
 - 🌱 I’m currently learning **NextJs, React and NestJs**
