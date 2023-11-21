@@ -3,8 +3,6 @@
 <h3 align="center">Sou um entusiasta na área de tecnologia e atualmente estou estudando no IFPE (Instituto Federal de Pernambuco). Atualmente estou focado em tecnologias como: Javascript, Typescript, NextJs, NestJs, React, API Rest e SQL. </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giovaniflp&label=Profile%20views&color=0e75b6&style=flat" alt="giovaniflp" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giovaniflp&theme=" alt="giovaniflp" /></a> </p>
-
 - 🌱 I’m currently learning **NextJs, React and NestJs**
 - 💬 Ask me about **Typescript, Javascript, NodeJs**
 - 📫 How to reach me **giovanifeitosa123@gmail.com**
