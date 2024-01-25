@@ -3,7 +3,7 @@
 <h3 align="center">I am an enthusiast in the area of technology and I am currently studying at IFPE (Federal Institute of Pernambuco). Currently I'm focused on technologies such as: Javascript, Typescript, NextJs, NestJs, React, Rest API and SQL. </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giovaniflp&label=Profile%20views&color=0e75b6&style=flat" alt="giovaniflp" /> </p>
 
-- 🌱 I’m currently learning **NextJs, React and NestJs**
+- 🌱 I’m currently learning **Angular 17 and SpringBoot**
 - 💬 Ask me about **Typescript, Javascript, NodeJs**
 - 📫 How to reach me **giovanifeitosa123@gmail.com**
 
